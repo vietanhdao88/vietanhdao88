@@ -1,4 +1,4 @@
-### : Hello everyone, I'm Dao Viet Anh
+###  Hello everyone, I'm Dao Viet Anh
 ## :space_invader: &nbsp;About Me
 ### - Learning :
 - ✨ Full Stack
