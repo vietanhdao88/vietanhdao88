@@ -6,7 +6,6 @@
 ### - Hobbies : 
 - ✨ Learning new languages and technologies
 - ✨ Reading book
-- ✨ Watching science fiction movie
 
 ### - Main tech knowledge :
 
